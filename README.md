@@ -1,5 +1,5 @@
 # Mezuniyet
-# Aşamalar
+## Aşamalar
 
 1. Kullanılacak görselleri , bilgileri , verileri  sitede yazılacak soru ve cevapların bulunması  
 2. Chatgpt wikipadia  meteoroloji il müdürlüğü bölge müdürlügü gibi sitelerden bilgiler topla 
